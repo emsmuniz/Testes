@@ -1,0 +1,5 @@
+<beans>
+	<intereptors>
+		<class>br.com.caelum.livraria.tx.GerenciadorDeTransacao</class>
+	</intereptors>
+</beans>
